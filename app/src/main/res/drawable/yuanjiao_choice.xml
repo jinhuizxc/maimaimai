@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<shape xmlns:android="http://schemas.android.com/apk/res/android" >
+
+    <!-- 实心块 颜色 -->
+    <solid android:color="#FFFFFF" />
+    <!-- 设置圆角 -->
+    <corners android:radius="5dp" />
+    <!-- 设置边框 -->
+    <stroke
+        android:width="2px"
+        android:color="@color/tv_Red" />
+
+</shape>

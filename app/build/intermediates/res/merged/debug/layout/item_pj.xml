@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical" >
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content" >
+
+        <ImageView
+            android:id="@+id/iv_pj"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:src="@drawable/ic_launcher" />
+
+        <TextView
+            android:id="@+id/tv_pj1"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="京东，你的购物首选！"
+            android:textAppearance="?android:attr/textAppearanceLarge" />
+
+    </LinearLayout>
+ <View android:layout_width="match_parent"
+     android:layout_height="1dp"
+     android:background="@color/black"/>
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content" 
+        android:orientation="vertical">
+
+        <TextView
+            android:id="@+id/tv_pj2"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="你们家的商品真的不错，我也很是喜欢，给好评！不过店家记得把承诺的返回现金打到本人支付宝：XXXXX。谢谢啦。"
+             />
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content" 
+            android:orientation="horizontal"
+            android:background="@color/gray">
+            <TextView
+        android:id="@+id/tv_pj3"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="2016_11_11       " />
+
+            <TextView
+                android:id="@+id/tv_pj4"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="我的京东自营店！" />
+
+        </LinearLayout>
+
+
+    </LinearLayout>
+
+    
+
+</LinearLayout>

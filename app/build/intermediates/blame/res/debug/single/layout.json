@@ -1,0 +1,154 @@
+[
+    {
+        "merged": "D:\\workspace-studio\\maimaimai\\app\\build\\intermediates\\res\\merged\\debug\\layout\\item.xml",
+        "source": "D:\\workspace-studio\\maimaimai\\app\\src\\main\\res\\layout\\item.xml"
+    },
+    {
+        "merged": "D:\\workspace-studio\\maimaimai\\app\\build\\intermediates\\res\\merged\\debug\\layout\\cart.xml",
+        "source": "D:\\workspace-studio\\maimaimai\\app\\src\\main\\res\\layout\\cart.xml"
+    },
+    {
+        "merged": "D:\\workspace-studio\\maimaimai\\app\\build\\intermediates\\res\\merged\\debug\\layout\\search.xml",
+        "source": "D:\\workspace-studio\\maimaimai\\app\\src\\main\\res\\layout\\search.xml"
+    },
+    {
+        "merged": "D:\\workspace-studio\\maimaimai\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_bg02.xml",
+        "source": "D:\\workspace-studio\\maimaimai\\app\\src\\main\\res\\layout\\fragment_bg02.xml"
+    },
+    {
+        "merged": "D:\\workspace-studio\\maimaimai\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_address.xml",
+        "source": "D:\\workspace-studio\\maimaimai\\app\\src\\main\\res\\layout\\activity_address.xml"
+    },
+    {
+        "merged": "D:\\workspace-studio\\maimaimai\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_login.xml",
+        "source": "D:\\workspace-studio\\maimaimai\\app\\src\\main\\res\\layout\\activity_login.xml"
+    },
+    {
+        "merged": "D:\\workspace-studio\\maimaimai\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_photo01.xml",
+        "source": "D:\\workspace-studio\\maimaimai\\app\\src\\main\\res\\layout\\fragment_photo01.xml"
+    },
+    {
+        "merged": "D:\\workspace-studio\\maimaimai\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_photo04.xml",
+        "source": "D:\\workspace-studio\\maimaimai\\app\\src\\main\\res\\layout\\fragment_photo04.xml"
+    },
+    {
+        "merged": "D:\\workspace-studio\\maimaimai\\app\\build\\intermediates\\res\\merged\\debug\\layout\\main.xml",
+        "source": "D:\\workspace-studio\\maimaimai\\app\\src\\main\\res\\layout\\main.xml"
+    },
+    {
+        "merged": "D:\\workspace-studio\\maimaimai\\app\\build\\intermediates\\res\\merged\\debug\\layout\\footer.xml",
+        "source": "D:\\workspace-studio\\maimaimai\\app\\src\\main\\res\\layout\\footer.xml"
+    },
+    {
+        "merged": "D:\\workspace-studio\\maimaimai\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_addnewaddress.xml",
+        "source": "D:\\workspace-studio\\maimaimai\\app\\src\\main\\res\\layout\\activity_addnewaddress.xml"
+    },
+    {
+        "merged": "D:\\workspace-studio\\maimaimai\\app\\build\\intermediates\\res\\merged\\debug\\layout\\start.xml",
+        "source": "D:\\workspace-studio\\maimaimai\\app\\src\\main\\res\\layout\\start.xml"
+    },
+    {
+        "merged": "D:\\workspace-studio\\maimaimai\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_ad.xml",
+        "source": "D:\\workspace-studio\\maimaimai\\app\\src\\main\\res\\layout\\fragment_ad.xml"
+    },
+    {
+        "merged": "D:\\workspace-studio\\maimaimai\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_houseappliances.xml",
+        "source": "D:\\workspace-studio\\maimaimai\\app\\src\\main\\res\\layout\\activity_houseappliances.xml"
+    },
+    {
+        "merged": "D:\\workspace-studio\\maimaimai\\app\\build\\intermediates\\res\\merged\\debug\\layout\\item_pj.xml",
+        "source": "D:\\workspace-studio\\maimaimai\\app\\src\\main\\res\\layout\\item_pj.xml"
+    },
+    {
+        "merged": "D:\\workspace-studio\\maimaimai\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_order.xml",
+        "source": "D:\\workspace-studio\\maimaimai\\app\\src\\main\\res\\layout\\activity_order.xml"
+    },
+    {
+        "merged": "D:\\workspace-studio\\maimaimai\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_photo05.xml",
+        "source": "D:\\workspace-studio\\maimaimai\\app\\src\\main\\res\\layout\\fragment_photo05.xml"
+    },
+    {
+        "merged": "D:\\workspace-studio\\maimaimai\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_register.xml",
+        "source": "D:\\workspace-studio\\maimaimai\\app\\src\\main\\res\\layout\\activity_register.xml"
+    },
+    {
+        "merged": "D:\\workspace-studio\\maimaimai\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_bg05.xml",
+        "source": "D:\\workspace-studio\\maimaimai\\app\\src\\main\\res\\layout\\fragment_bg05.xml"
+    },
+    {
+        "merged": "D:\\workspace-studio\\maimaimai\\app\\build\\intermediates\\res\\merged\\debug\\layout\\exit_dialog_from_settings.xml",
+        "source": "D:\\workspace-studio\\maimaimai\\app\\src\\main\\res\\layout\\exit_dialog_from_settings.xml"
+    },
+    {
+        "merged": "D:\\workspace-studio\\maimaimai\\app\\build\\intermediates\\res\\merged\\debug\\layout\\personal.xml",
+        "source": "D:\\workspace-studio\\maimaimai\\app\\src\\main\\res\\layout\\personal.xml"
+    },
+    {
+        "merged": "D:\\workspace-studio\\maimaimai\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_photo02.xml",
+        "source": "D:\\workspace-studio\\maimaimai\\app\\src\\main\\res\\layout\\fragment_photo02.xml"
+    },
+    {
+        "merged": "D:\\workspace-studio\\maimaimai\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_more.xml",
+        "source": "D:\\workspace-studio\\maimaimai\\app\\src\\main\\res\\layout\\activity_more.xml"
+    },
+    {
+        "merged": "D:\\workspace-studio\\maimaimai\\app\\build\\intermediates\\res\\merged\\debug\\layout\\item_modifyaddress.xml",
+        "source": "D:\\workspace-studio\\maimaimai\\app\\src\\main\\res\\layout\\item_modifyaddress.xml"
+    },
+    {
+        "merged": "D:\\workspace-studio\\maimaimai\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_home.xml",
+        "source": "D:\\workspace-studio\\maimaimai\\app\\src\\main\\res\\layout\\activity_home.xml"
+    },
+    {
+        "merged": "D:\\workspace-studio\\maimaimai\\app\\build\\intermediates\\res\\merged\\debug\\layout\\productcartinfo.xml",
+        "source": "D:\\workspace-studio\\maimaimai\\app\\src\\main\\res\\layout\\productcartinfo.xml"
+    },
+    {
+        "merged": "D:\\workspace-studio\\maimaimai\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_bg01.xml",
+        "source": "D:\\workspace-studio\\maimaimai\\app\\src\\main\\res\\layout\\fragment_bg01.xml"
+    },
+    {
+        "merged": "D:\\workspace-studio\\maimaimai\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_shake.xml",
+        "source": "D:\\workspace-studio\\maimaimai\\app\\src\\main\\res\\layout\\activity_shake.xml"
+    },
+    {
+        "merged": "D:\\workspace-studio\\maimaimai\\app\\build\\intermediates\\res\\merged\\debug\\layout\\category.xml",
+        "source": "D:\\workspace-studio\\maimaimai\\app\\src\\main\\res\\layout\\category.xml"
+    },
+    {
+        "merged": "D:\\workspace-studio\\maimaimai\\app\\build\\intermediates\\res\\merged\\debug\\layout\\custom_toast.xml",
+        "source": "D:\\workspace-studio\\maimaimai\\app\\src\\main\\res\\layout\\custom_toast.xml"
+    },
+    {
+        "merged": "D:\\workspace-studio\\maimaimai\\app\\build\\intermediates\\res\\merged\\debug\\layout\\category_item.xml",
+        "source": "D:\\workspace-studio\\maimaimai\\app\\src\\main\\res\\layout\\category_item.xml"
+    },
+    {
+        "merged": "D:\\workspace-studio\\maimaimai\\app\\build\\intermediates\\res\\merged\\debug\\layout\\item_address.xml",
+        "source": "D:\\workspace-studio\\maimaimai\\app\\src\\main\\res\\layout\\item_address.xml"
+    },
+    {
+        "merged": "D:\\workspace-studio\\maimaimai\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_bg04.xml",
+        "source": "D:\\workspace-studio\\maimaimai\\app\\src\\main\\res\\layout\\fragment_bg04.xml"
+    },
+    {
+        "merged": "D:\\workspace-studio\\maimaimai\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_photo03.xml",
+        "source": "D:\\workspace-studio\\maimaimai\\app\\src\\main\\res\\layout\\fragment_photo03.xml"
+    },
+    {
+        "merged": "D:\\workspace-studio\\maimaimai\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_splash.xml",
+        "source": "D:\\workspace-studio\\maimaimai\\app\\src\\main\\res\\layout\\activity_splash.xml"
+    },
+    {
+        "merged": "D:\\workspace-studio\\maimaimai\\app\\build\\intermediates\\res\\merged\\debug\\layout\\search_toolbar.xml",
+        "source": "D:\\workspace-studio\\maimaimai\\app\\src\\main\\res\\layout\\search_toolbar.xml"
+    },
+    {
+        "merged": "D:\\workspace-studio\\maimaimai\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_bg03.xml",
+        "source": "D:\\workspace-studio\\maimaimai\\app\\src\\main\\res\\layout\\fragment_bg03.xml"
+    },
+    {
+        "merged": "D:\\workspace-studio\\maimaimai\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_commodity.xml",
+        "source": "D:\\workspace-studio\\maimaimai\\app\\src\\main\\res\\layout\\activity_commodity.xml"
+    }
+]

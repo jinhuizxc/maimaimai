@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <CheckBox
+        android:id="@+id/checkBox_product_isbuy"
+        android:layout_width="wrap_content"
+        android:layout_height="100dp"
+        android:scaleX="0.5" 
+        android:scaleY="0.5"/>
+
+    <ImageView
+        android:id="@+id/imageView_product_bitmap"
+        android:layout_width="100dp"
+        android:layout_height="100dp"
+        android:scaleType="fitCenter"
+        android:contentDescription="@string/user_image_discription"
+        android:src="@drawable/icon_shop_search_empty" />
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="100dp"
+        android:orientation="vertical"
+        android:layout_marginLeft="5dp" >
+
+        <TextView
+            android:id="@+id/textView_product_title"
+            android:layout_width="match_parent"
+            android:singleLine="true"
+            android:layout_height="0dp"
+            android:layout_weight="2"
+            android:text="name"
+            android:textAppearance="?android:attr/textAppearanceLarge" />
+
+        <TextView
+            android:id="@+id/textView_product_price"
+            android:layout_width="wrap_content"
+            android:gravity="top|left"
+            android:layout_height="0dp"
+            android:layout_weight="1"
+            android:text="price"
+            android:textAppearance="?android:attr/textAppearanceLarge" />
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="0dp"
+            android:layout_weight="1" >
+
+            <TextView
+                android:id="@+id/textView_product_color"
+                android:layout_width="0dp"
+                android:layout_weight="2"
+                android:gravity="left"
+                android:text="color"
+                android:layout_height="wrap_content"
+                android:textAppearance="?android:attr/textAppearanceLarge" />
+
+            <TextView
+                android:id="@+id/textView_product_number"
+                android:layout_width="0dp"
+                android:layout_weight="1"
+                android:layout_marginRight="15dp"
+                android:gravity="right"
+                android:clickable="true"
+                android:text="num"
+                android:layout_height="wrap_content"
+                android:textAppearance="?android:attr/textAppearanceLarge" />
+
+        </LinearLayout>
+
+    </LinearLayout>
+
+</LinearLayout>

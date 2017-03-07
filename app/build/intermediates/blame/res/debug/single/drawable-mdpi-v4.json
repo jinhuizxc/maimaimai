@@ -1,0 +1,22 @@
+[
+    {
+        "merged": "D:\\workspace-studio\\maimaimai\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\bg05.jpg",
+        "source": "D:\\workspace-studio\\maimaimai\\app\\src\\main\\res\\drawable-mdpi\\bg05.jpg"
+    },
+    {
+        "merged": "D:\\workspace-studio\\maimaimai\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\bg03.jpg",
+        "source": "D:\\workspace-studio\\maimaimai\\app\\src\\main\\res\\drawable-mdpi\\bg03.jpg"
+    },
+    {
+        "merged": "D:\\workspace-studio\\maimaimai\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\bg01.jpg",
+        "source": "D:\\workspace-studio\\maimaimai\\app\\src\\main\\res\\drawable-mdpi\\bg01.jpg"
+    },
+    {
+        "merged": "D:\\workspace-studio\\maimaimai\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\bg04.jpg",
+        "source": "D:\\workspace-studio\\maimaimai\\app\\src\\main\\res\\drawable-mdpi\\bg04.jpg"
+    },
+    {
+        "merged": "D:\\workspace-studio\\maimaimai\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\bg02.jpg",
+        "source": "D:\\workspace-studio\\maimaimai\\app\\src\\main\\res\\drawable-mdpi\\bg02.jpg"
+    }
+]
